@@ -1,0 +1,141 @@
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "1jk-xs-bjX"; */
+"1jk-xs-bjX.normalTitle" = "Дополнительно";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "22H-0B-xET"; */
+"22H-0B-xET.text" = "Температура";
+
+/* Class = "UILabel"; text = "Choose a direction"; ObjectID = "420-tO-cpy"; */
+"420-tO-cpy.text" = "Выберите направление";
+
+/* Class = "UITabBarItem"; title = "Other"; ObjectID = "6oj-0f-r75"; */
+"6oj-0f-r75.title" = "Другое";
+
+/* Class = "UILabel"; text = "Date back"; ObjectID = "7FM-L5-uqT"; */
+"7FM-L5-uqT.text" = "Дата обратно";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "8W4-e1-aVs"; */
+"8W4-e1-aVs.placeholder" = "Куда";
+
+/* Class = "UITabBarItem"; title = "Registration"; ObjectID = "ATy-ek-IfH"; */
+"ATy-ek-IfH.title" = "Регистрация";
+
+/* Class = "UILabel"; text = "Date/Time"; ObjectID = "AuT-sf-OA8"; */
+"AuT-sf-OA8.text" = "Дата/Время";
+
+/* Class = "UINavigationItem"; title = "Tickets"; ObjectID = "IsZ-rp-FaQ"; */
+"IsZ-rp-FaQ.title" = "";
+
+/* Class = "UILabel"; text = "Stay home! Borders are still closed!🤪"; ObjectID = "K9U-Dm-o9T"; */
+"K9U-Dm-o9T.text" = "Оставайся дома! Границы все еще закрыты!🤪";
+
+/* Class = "UITabBarItem"; title = "Flights"; ObjectID = "KH6-qh-e13"; */
+"KH6-qh-e13.title" = "Покупка";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "Kek-Zg-gK4"; */
+"Kek-Zg-gK4.title" = "Профиль";
+
+/* Class = "UILabel"; text = "Date/Time"; ObjectID = "Lri-lF-5eV"; */
+"Lri-lF-5eV.text" = "Дата/Время";
+
+/* Class = "UINavigationItem"; title = "Notifications"; ObjectID = "M63-1N-Egr"; */
+"M63-1N-Egr.title" = "Уведомления";
+
+/* Class = "UILabel"; text = "Date/Time"; ObjectID = "MYg-MI-xnw"; */
+"MYg-MI-xnw.text" = "Дата/Время";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "PW0-DU-X3c"; */
+"PW0-DU-X3c.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "QMl-iB-lSw"; */
+"QMl-iB-lSw.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "Rif-F2-Kbc"; */
+"Rif-F2-Kbc.text" = "Температура";
+
+/* Class = "UITextField"; placeholder = "From"; ObjectID = "RpD-AI-SjZ"; */
+"RpD-AI-SjZ.placeholder" = "Откуда";
+
+/* Class = "UILabel"; text = "ᐤ"; ObjectID = "SHQ-dt-aIs"; */
+"SHQ-dt-aIs.text" = "ᐤ";
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "SaQ-FR-Caw"; */
+"SaQ-FR-Caw.normalTitle" = "Дополнительно";
+
+/* Class = "UITabBarItem"; title = "Tickets"; ObjectID = "Tnv-Dz-kf4"; */
+"Tnv-Dz-kf4.title" = "Билеты";
+
+/* Class = "UILabel"; text = "Choose a direction"; ObjectID = "Wd6-bl-ItP"; */
+"Wd6-bl-ItP.text" = "Выберите направление";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "XRt-BT-dql"; */
+"XRt-BT-dql.title" = "Закрыть";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "XWP-lG-z7V"; */
+"XWP-lG-z7V.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "aXr-Gg-h2Z"; */
+"aXr-Gg-h2Z.normalTitle" = "Продолжить";
+
+/* Class = "UILabel"; text = "2-12 years"; ObjectID = "aeX-T0-ARP"; */
+"aeX-T0-ARP.text" = "2-12 лет";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "b4C-Hl-UhN"; */
+"b4C-Hl-UhN.text" = "1";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "c5L-Lc-Iyq"; */
+"c5L-Lc-Iyq.text" = "Температура";
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "cOJ-Zt-J4H"; */
+"cOJ-Zt-J4H.normalTitle" = "Дополнительно";
+
+/* Class = "UILabel"; text = "Adults"; ObjectID = "daU-yz-OdN"; */
+"daU-yz-OdN.text" = "Взрослые";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "eXq-pL-TQr"; */
+"eXq-pL-TQr.title" = "Root View Controller";
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "gX0-Zn-gUB"; */
+"gX0-Zn-gUB.normalTitle" = "Дополнительно";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "h0x-Eh-zK8"; */
+"h0x-Eh-zK8.title" = "Root View Controller";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "hbD-DS-7Ug"; */
+"hbD-DS-7Ug.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Date/Time"; ObjectID = "iJZ-Dc-Az0"; */
+"iJZ-Dc-Az0.text" = "Дата/Время";
+
+/* Class = "UILabel"; text = "ᐤ"; ObjectID = "iUd-vC-cUh"; */
+"iUd-vC-cUh.text" = "ᐤ";
+
+/* Class = "UILabel"; text = "Date/Time"; ObjectID = "jlD-0k-Y8T"; */
+"jlD-0k-Y8T.text" = "Дата/Время";
+
+/* Class = "UITextField"; placeholder = "Choose date"; ObjectID = "qtN-wb-Abx"; */
+"qtN-wb-Abx.placeholder" = "Выберите дату";
+
+/* Class = "UIButton"; normalTitle = "Details"; ObjectID = "u3U-3q-5xD"; */
+"u3U-3q-5xD.normalTitle" = "Дополнительно";
+
+/* Class = "UILabel"; text = ">2 years"; ObjectID = "ugH-93-Hpw"; */
+"ugH-93-Hpw.text" = ">2 лет";
+
+/* Class = "UILabel"; text = "Buying tickets"; ObjectID = "wYl-LL-4rf"; */
+"wYl-LL-4rf.text" = "Покупка билетов";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "x8W-Nl-ye5"; */
+"x8W-Nl-ye5.text" = "Температура";
+
+/* Class = "UILabel"; text = "Date there"; ObjectID = "xIg-qb-po9"; */
+"xIg-qb-po9.text" = "Дата туда";
+
+/* Class = "UIBarButtonItem"; title = "Buy tickets"; ObjectID = "z4T-cs-jYV"; */
+"z4T-cs-jYV.title" = "Купить билеты";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "zQR-dq-7TW"; */
+"zQR-dq-7TW.text" = "Температура";
+
+/* Class = "UITextField"; placeholder = "Choose date"; ObjectID = "zUt-JU-gep"; */
+"zUt-JU-gep.placeholder" = "Выберите дату";
